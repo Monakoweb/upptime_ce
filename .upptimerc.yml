@@ -9,6 +9,8 @@ sites:
     url: https://en.wikipedia.org
   - name: Hacker News
     url: https://news.ycombinator.com
+  - name: Consejo de Estado
+    url: https://consejodeestado.gov.co/
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
     
