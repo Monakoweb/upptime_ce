@@ -12,7 +12,7 @@ sites:
     url: https://samairj.consejodeestado.gov.co/
   - name: SAMAI AZURE
     url: https://samai.azurewebsites.net/
-  - - name: Indice Electronico
+  - name: Indice Electronico
     url: https://iedoc.consejodeestado.gov.co:448/  
  
     
