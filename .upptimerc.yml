@@ -6,6 +6,12 @@ sites:
   
   - name: Consejo de Estado
     url: https://consejodeestado.gov.co/
+  - name: SAMAI
+    url: https://relatoria.consejodeestado.gov.co:8080/
+  - name: SAMAIRJ
+    url: https://samairj.consejodeestado.gov.co/
+  - name: SAMAI AZURE
+    url: https://samai.azurewebsites.net/
  
     
 assigness:
