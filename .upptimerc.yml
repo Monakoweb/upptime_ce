@@ -13,7 +13,9 @@ sites:
   - name: SAMAI AZURE
     url: https://samai.azurewebsites.net/
   - name: Indice Electronico
-    url: https://iedoc.consejodeestado.gov.co:448/  
+    url: https://iedoc.consejodeestado.gov.co:448/
+  - name: Vocabulario Controlado
+    url: http://190.217.24.78:8888/tematres3/vocab/index.php
  
     
 assigness:
