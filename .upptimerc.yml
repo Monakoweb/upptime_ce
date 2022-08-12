@@ -6,6 +6,7 @@ sites:
   
   - name: Consejo de Estado
     url: https://consejodeestado.gov.co/
+    maxResponseTime: 5000
   - name: SAMAI
     url: https://relatoria.consejodeestado.gov.co:8080/
   - name: SAMAIRJ
