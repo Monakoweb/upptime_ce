@@ -22,19 +22,19 @@
     "url": "https://relatoria.consejodeestado.gov.co:8080/",
     "icon": "https://favicons.githubusercontent.com/relatoria.consejodeestado.gov.co",
     "slug": "samai",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 805,
-    "timeDay": 706,
-    "timeWeek": 836,
-    "timeMonth": 805,
-    "timeYear": 805,
+    "status": "up",
+    "uptime": "97.36%",
+    "uptimeDay": "75.66%",
+    "uptimeWeek": "96.52%",
+    "uptimeMonth": "97.36%",
+    "uptimeYear": "97.36%",
+    "time": 803,
+    "timeDay": 745,
+    "timeWeek": 829,
+    "timeMonth": 803,
+    "timeYear": 803,
     "dailyMinutesDown": {
-      "2022-08-20": 2
+      "2022-08-20": 350
     }
   },
   {
@@ -78,19 +78,19 @@
     "url": "https://iedoc.consejodeestado.gov.co:448/",
     "icon": "https://favicons.githubusercontent.com/iedoc.consejodeestado.gov.co",
     "slug": "indice-electronico",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 725,
-    "timeDay": 604,
-    "timeWeek": 722,
-    "timeMonth": 725,
-    "timeYear": 725,
+    "status": "up",
+    "uptime": "97.35%",
+    "uptimeDay": "75.66%",
+    "uptimeWeek": "96.52%",
+    "uptimeMonth": "97.35%",
+    "uptimeYear": "97.35%",
+    "time": 729,
+    "timeDay": 695,
+    "timeWeek": 729,
+    "timeMonth": 729,
+    "timeYear": 729,
     "dailyMinutesDown": {
-      "2022-08-20": 2
+      "2022-08-20": 351
     }
   },
   {
@@ -128,7 +128,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-08-20": 887,
+      "2022-08-20": 1237,
       "2022-08-19": 1440,
       "2022-08-18": 1440,
       "2022-08-17": 1440,
