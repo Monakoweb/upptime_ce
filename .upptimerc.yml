@@ -17,6 +17,8 @@ sites:
     url: https://iedoc.consejodeestado.gov.co:448/
   - name: Vocabulario Controlado
     url: http://190.217.24.78:8888/tematres3/vocab/index.php
+  - name: Buscador Tradicional CONSEJO
+    url: http://190.217.24.55:8080/WebRelatoria/ce/index.xhtml
   - name: JCA CONSEJO
     url: https://relatoria.consejodeestado.gov.co:8088/
  
