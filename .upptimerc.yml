@@ -21,6 +21,8 @@ sites:
     url: http://190.217.24.55:8080/WebRelatoria/ce/index.xhtml
   - name: JCA CONSEJO
     url: https://relatoria.consejodeestado.gov.co:8088/
+  - name: SIGOBIUOS
+    url: https://sigobius.consejodeestado.gov.co/SIGOBIUS/wsCorrespondencia/srvCorrespondencia.asmx?wsdl
  
     
 assigness:
