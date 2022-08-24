@@ -23,6 +23,8 @@ sites:
     url: https://relatoria.consejodeestado.gov.co:8088/
   - name: SIGOBIUOS
     url: https://sigobius.consejodeestado.gov.co/SIGOBIUS/wsCorrespondencia/srvCorrespondencia.asmx?wsdl
+  - name: Linkce
+    url: https://linkce.consejodeestado.gov.co/
  
     
 assigness:
