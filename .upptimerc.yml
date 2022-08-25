@@ -24,7 +24,7 @@ sites:
   - name: SIGOBIUOS
     url: https://sigobius.consejodeestado.gov.co/SIGOBIUS/wsCorrespondencia/srvCorrespondencia.asmx?wsdl
   - name: Linkce
-    url: https://linkce.consejodeestado.gov.co/
+    url: https://190.217.24.53/
  
     
 assigness:
