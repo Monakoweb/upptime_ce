@@ -23,8 +23,15 @@ sites:
     url: https://relatoria.consejodeestado.gov.co:8088/
   - name: SIGOBIUOS
     url: https://sigobius.consejodeestado.gov.co/SIGOBIUS/wsCorrespondencia/srvCorrespondencia.asmx?wsdl
+  - name: Ventanilla Azure
+    url: ventanillavirtual.consejodeestado.gov.co
+  - name: SAMAI AZURE-2
+    url: samai.consejodeestado.gov.co
+  - name: SAMAI JCA AZURE-2
+    url: samaijca.consejodeestado.gov.co
   - name: Linkce
     url: https://linkce.consejodeestado.gov.co/
+    
  
     
 assigness:
