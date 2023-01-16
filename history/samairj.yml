@@ -1,7 +1,7 @@
 url: https://samairj.consejodeestado.gov.co/
-status: down
-code: 503
-responseTime: 613
-lastUpdated: 2023-01-16T21:48:36.172Z
+status: up
+code: 200
+responseTime: 803
+lastUpdated: 2023-01-16T21:58:54.162Z
 startTime: Thu Aug 11 2022 15:44:30 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
