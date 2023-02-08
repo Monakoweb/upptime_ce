@@ -31,7 +31,7 @@ sites:
     url: samaijca.consejodeestado.gov.co
   - name: Linkce
     url: https://linkce.consejodeestado.gov.co/
-    - name: Linkce
+  - name: INDICE MICRO
     url: https://iedoc.consejodeestado.gov.co:448/swagger.html
     
     
