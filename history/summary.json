@@ -456,7 +456,7 @@
     "timeMonth": 293,
     "timeYear": 293,
     "dailyMinutesDown": {
-      "2023-03-06": 930,
+      "2023-03-06": 946,
       "2023-03-05": 1440,
       "2023-03-04": 1440,
       "2023-03-03": 1440,
@@ -589,11 +589,11 @@
     "url": "samai.consejodeestado.gov.co",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "samai-azure-2",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.91%",
     "time": 602,
     "timeDay": 207,
@@ -601,6 +601,7 @@
     "timeMonth": 693,
     "timeYear": 602,
     "dailyMinutesDown": {
+      "2023-03-06": 2,
       "2023-02-17": 27,
       "2023-01-13": 17,
       "2022-12-10": 103,
@@ -612,10 +613,10 @@
     "url": "samaijca.consejodeestado.gov.co",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "samai-jca-azure-2",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 548,
@@ -624,6 +625,7 @@
     "timeMonth": 461,
     "timeYear": 548,
     "dailyMinutesDown": {
+      "2023-03-06": 1,
       "2022-12-10": 102
     }
   },
@@ -644,7 +646,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-06": 930,
+      "2023-03-06": 946,
       "2023-03-05": 1440,
       "2023-03-04": 1440,
       "2023-03-03": 1440,
