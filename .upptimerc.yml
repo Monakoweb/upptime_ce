@@ -4,7 +4,7 @@ repo: upptime_ce # The name of this repository
 
 sites:
   
-  - name: Consejo de Estado
+  - name: Consejo de Estado Web
     url: https://consejodeestado.gov.co/
     maxResponseTime: 5000
   - name: SAMAI
