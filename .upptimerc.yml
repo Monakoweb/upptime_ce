@@ -11,6 +11,7 @@ sites:
     url: https://relatoria.consejodeestado.gov.co:8080/
   - name: SAMAIRJ
     url: https://samairj.consejodeestado.gov.co/
+    maxResponseTime: 5000
   - name: SAMAI AZURE
     url: https://samai.azurewebsites.net/
   - name: Indice Electronico
