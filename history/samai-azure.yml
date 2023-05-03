@@ -1,7 +1,7 @@
 url: https://samai.azurewebsites.net/
-status: up
-code: 200
-responseTime: 269
-lastUpdated: 2023-05-02T23:02:54.348Z
+status: down
+code: 500
+responseTime: 435
+lastUpdated: 2023-05-03T22:23:18.704Z
 startTime: Thu Aug 11 2022 15:44:32 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
