@@ -1,7 +1,7 @@
 url: https://iedoc.consejodeestado.gov.co:448/swagger.html
-status: up
-code: 200
-responseTime: 431
-lastUpdated: 2023-05-24T16:10:52.340Z
+status: down
+code: 404
+responseTime: 371
+lastUpdated: 2023-05-24T16:45:26.307Z
 startTime: Wed Feb 08 2023 17:43:56 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
