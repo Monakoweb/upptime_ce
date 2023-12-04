@@ -4,13 +4,8 @@ repo: upptime_ce # The name of this repository
 
 sites:
   
-  - name: Consejo de Estado Web
-    url: https://consejodeestado.gov.co/
-    maxResponseTime: 5000
   - name: SAMAI
     url: https://relatoria.consejodeestado.gov.co:8080/
-  - name: SAMAIRJ
-    url: https://samairj.consejodeestado.gov.co/
   - name: SAMAI AZURE
     url: https://samai.azurewebsites.net/
   - name: Indice Electronico
@@ -21,16 +16,12 @@ sites:
     url: http://190.217.24.55:8080/WebRelatoria/ce/index.xhtml
   - name: JCA CONSEJO
     url: https://relatoria.consejodeestado.gov.co:8088/
-  - name: SIGOBIUOS
-    url: https://sigobius.consejodeestado.gov.co/SIGOBIUS/wsCorrespondencia/srvCorrespondencia.asmx?wsdl
   - name: Ventanilla Azure
     url: ventanillavirtual.consejodeestado.gov.co
   - name: SAMAI AZURE-2
     url: samai.consejodeestado.gov.co
   - name: SAMAI JCA AZURE-2
     url: samaijca.consejodeestado.gov.co
-  - name: Linkce
-    url: https://linkce.consejodeestado.gov.co/
   - name: INDICE MICRO
     url: https://iedoc.consejodeestado.gov.co:448/swagger.html
     
