@@ -1,7 +1,7 @@
 url: https://relatoria.consejodeestado.gov.co:8088/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-02-08T13:20:11.439Z
+status: up
+code: 200
+responseTime: 440
+lastUpdated: 2024-02-08T14:57:22.994Z
 startTime: 2022-08-12T20:51:15.000Z
 generator: Upptime <https://github.com/upptime/upptime>
