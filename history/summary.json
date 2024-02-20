@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/relatoria.consejodeestado.gov.co.ico",
     "slug": "samai",
     "status": "up",
-    "uptime": "70.84%",
+    "uptime": "70.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.76%",
     "uptimeMonth": "99.50%",
@@ -440,9 +440,9 @@
     "slug": "buscador-tradicional-consejo",
     "status": "up",
     "uptime": "96.69%",
-    "uptimeDay": "35.15%",
-    "uptimeWeek": "64.53%",
-    "uptimeMonth": "82.79%",
+    "uptimeDay": "43.00%",
+    "uptimeWeek": "64.64%",
+    "uptimeMonth": "82.82%",
     "uptimeYear": "95.05%",
     "time": 1571,
     "timeDay": 794,
@@ -450,7 +450,7 @@
     "timeMonth": 1313,
     "timeYear": 1605,
     "dailyMinutesDown": {
-      "2024-02-19": 890,
+      "2024-02-19": 879,
       "2024-02-18": 1440,
       "2024-02-17": 1221,
       "2024-02-15": 24,
@@ -546,7 +546,8 @@
       "2023-06-18": 34,
       "2023-06-16": 60,
       "2023-06-14": 19,
-      "2023-06-08": 793
+      "2023-06-08": 793,
+      "2023-06-07": 30
     }
   },
   {
@@ -749,11 +750,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ventanilla-azure",
     "status": "up",
-    "uptime": "24.13%",
+    "uptime": "24.14%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "31.40%",
+    "uptimeYear": "31.42%",
     "time": 454,
     "timeDay": 654,
     "timeWeek": 580,
@@ -1016,8 +1017,7 @@
       "2023-02-24": 1440,
       "2023-02-23": 1440,
       "2023-02-22": 1440,
-      "2023-02-21": 1440,
-      "2023-02-20": 1440
+      "2023-02-21": 1440
     }
   },
   {
