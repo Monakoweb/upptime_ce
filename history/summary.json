@@ -435,13 +435,13 @@
     "url": "http://190.217.24.55:8080/WebRelatoria/ce/index.xhtml",
     "icon": "https://icons.duckduckgo.com/ip3/190.217.24.55.ico",
     "slug": "buscador-tradicional-consejo",
-    "status": "up",
+    "status": "down",
     "uptime": "97.19%",
-    "uptimeDay": "45.99%",
+    "uptimeDay": "45.97%",
     "uptimeWeek": "91.85%",
     "uptimeMonth": "80.89%",
-    "uptimeYear": "95.67%",
-    "time": 1587,
+    "uptimeYear": "95.68%",
+    "time": 1588,
     "timeDay": 1393,
     "timeWeek": 1021,
     "timeMonth": 1017,
@@ -540,8 +540,7 @@
       "2023-07-13": 17,
       "2023-07-07": 26,
       "2023-07-05": 30,
-      "2023-07-04": 23,
-      "2023-06-27": 38
+      "2023-07-04": 23
     }
   },
   {
@@ -747,7 +746,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "35.50%",
+    "uptimeYear": "35.51%",
     "time": 459,
     "timeDay": 636,
     "timeWeek": 547,
