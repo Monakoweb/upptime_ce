@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/relatoria.consejodeestado.gov.co.ico",
     "slug": "samai",
     "status": "up",
-    "uptime": "72.92%",
+    "uptime": "72.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.57%",
     "uptimeMonth": "99.82%",
@@ -449,18 +449,19 @@
     "url": "http://190.217.24.55:8080/WebRelatoria/ce/index.xhtml",
     "icon": "https://icons.duckduckgo.com/ip3/190.217.24.55.ico",
     "slug": "buscador-tradicional-consejo",
-    "status": "up",
+    "status": "down",
     "uptime": "96.52%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "32.86%",
-    "uptimeMonth": "79.95%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "32.85%",
+    "uptimeMonth": "79.94%",
     "uptimeYear": "94.38%",
-    "time": 1576,
+    "time": 1578,
     "timeDay": 797,
     "timeWeek": 967,
     "timeMonth": 1796,
     "timeYear": 1615,
     "dailyMinutesDown": {
+      "2024-04-03": 0,
       "2024-04-01": 899,
       "2024-03-31": 1440,
       "2024-03-30": 1440,
@@ -557,8 +558,7 @@
       "2023-08-14": 25,
       "2023-08-12": 55,
       "2023-08-10": 24,
-      "2023-08-01": 15,
-      "2023-07-31": 19
+      "2023-08-01": 15
     }
   },
   {
