@@ -194,8 +194,7 @@
       "2023-05-02": 1440,
       "2023-05-01": 1440,
       "2023-04-30": 1440,
-      "2023-04-29": 1440,
-      "2023-04-28": 1440
+      "2023-04-29": 1440
     }
   },
   {
@@ -468,7 +467,7 @@
     "timeDay": 696,
     "timeWeek": 1018,
     "timeMonth": 1163,
-    "timeYear": 1547,
+    "timeYear": 1548,
     "dailyMinutesDown": {
       "2024-04-26": 79,
       "2024-04-24": 99,
@@ -572,7 +571,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/relatoria.consejodeestado.gov.co.ico",
     "slug": "jca-consejo",
     "status": "up",
-    "uptime": "71.06%",
+    "uptime": "71.07%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.78%",
     "uptimeMonth": "99.82%",
@@ -757,8 +756,7 @@
       "2023-05-02": 1440,
       "2023-05-01": 1440,
       "2023-04-30": 1440,
-      "2023-04-29": 1440,
-      "2023-04-28": 1440
+      "2023-04-29": 1440
     }
   },
   {
@@ -767,11 +765,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ventanilla-azure",
     "status": "up",
-    "uptime": "33.50%",
+    "uptime": "33.51%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "49.48%",
+    "uptimeYear": "49.50%",
     "time": 463,
     "timeDay": 814,
     "timeWeek": 744,
@@ -967,8 +965,7 @@
       "2023-05-02": 1440,
       "2023-05-01": 1440,
       "2023-04-30": 1440,
-      "2023-04-29": 1440,
-      "2023-04-28": 1440
+      "2023-04-29": 1440
     }
   },
   {
