@@ -449,18 +449,19 @@
     "url": "http://190.217.24.55:8080/WebRelatoria/ce/index.xhtml",
     "icon": "https://icons.duckduckgo.com/ip3/190.217.24.55.ico",
     "slug": "buscador-tradicional-consejo",
-    "status": "up",
-    "uptime": "96.99%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "97.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "96.79%",
     "uptimeMonth": "96.40%",
-    "uptimeYear": "94.80%",
-    "time": 1551,
+    "uptimeYear": "94.81%",
+    "time": 1552,
     "timeDay": 624,
     "timeWeek": 1079,
     "timeMonth": 1136,
     "timeYear": 1466,
     "dailyMinutesDown": {
+      "2024-05-14": 0,
       "2024-05-13": 134,
       "2024-05-12": 37,
       "2024-05-10": 24,
@@ -555,8 +556,7 @@
       "2023-09-30": 46,
       "2023-09-28": 682,
       "2023-09-27": 18,
-      "2023-09-26": 604,
-      "2023-09-25": 17
+      "2023-09-26": 604
     }
   },
   {
@@ -565,7 +565,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/relatoria.consejodeestado.gov.co.ico",
     "slug": "jca-consejo",
     "status": "up",
-    "uptime": "71.74%",
+    "uptime": "71.75%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.08%",
     "uptimeMonth": "97.40%",
