@@ -9,7 +9,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.69%",
-    "uptimeYear": "87.58%",
+    "uptimeYear": "87.59%",
     "time": 1022,
     "timeDay": 668,
     "timeWeek": 945,
@@ -89,8 +89,7 @@
       "2023-08-26": 1440,
       "2023-08-25": 1440,
       "2023-08-24": 1440,
-      "2023-08-23": 1440,
-      "2023-08-22": 1440
+      "2023-08-23": 1440
     }
   },
   {
@@ -122,17 +121,17 @@
     "slug": "indice-electronico",
     "status": "up",
     "uptime": "82.07%",
-    "uptimeDay": "94.91%",
-    "uptimeWeek": "98.25%",
-    "uptimeMonth": "99.28%",
-    "uptimeYear": "87.29%",
+    "uptimeDay": "95.82%",
+    "uptimeWeek": "98.38%",
+    "uptimeMonth": "99.31%",
+    "uptimeYear": "87.31%",
     "time": 652,
     "timeDay": 600,
     "timeWeek": 605,
     "timeMonth": 760,
     "timeYear": 647,
     "dailyMinutesDown": {
-      "2024-08-20": 74,
+      "2024-08-20": 61,
       "2024-08-16": 18,
       "2024-08-15": 23,
       "2024-08-14": 61,
@@ -228,8 +227,7 @@
       "2023-08-26": 1440,
       "2023-08-25": 1440,
       "2023-08-24": 1440,
-      "2023-08-23": 1440,
-      "2023-08-22": 1440
+      "2023-08-23": 1440
     }
   },
   {
@@ -271,7 +269,7 @@
     "slug": "buscador-tradicional-consejo",
     "status": "up",
     "uptime": "96.80%",
-    "uptimeDay": "43.07%",
+    "uptimeDay": "48.76%",
     "uptimeWeek": "44.84%",
     "uptimeMonth": "84.99%",
     "uptimeYear": "93.61%",
@@ -388,7 +386,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.71%",
-    "uptimeYear": "87.60%",
+    "uptimeYear": "87.62%",
     "time": 915,
     "timeDay": 423,
     "timeWeek": 590,
@@ -463,8 +461,7 @@
       "2023-08-26": 1440,
       "2023-08-25": 1440,
       "2023-08-24": 1440,
-      "2023-08-23": 1440,
-      "2023-08-22": 1440
+      "2023-08-23": 1440
     }
   },
   {
@@ -473,11 +470,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ventanilla-azure",
     "status": "up",
-    "uptime": "45.21%",
+    "uptime": "45.22%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.50%",
     "uptimeMonth": "99.74%",
-    "uptimeYear": "74.25%",
+    "uptimeYear": "74.27%",
     "time": 565,
     "timeDay": 394,
     "timeWeek": 372,
@@ -580,8 +577,7 @@
       "2023-08-26": 1440,
       "2023-08-25": 1440,
       "2023-08-24": 1440,
-      "2023-08-23": 1440,
-      "2023-08-22": 1440
+      "2023-08-23": 1440
     }
   },
   {
@@ -659,17 +655,17 @@
     "slug": "indice-micro",
     "status": "up",
     "uptime": "76.47%",
-    "uptimeDay": "94.91%",
-    "uptimeWeek": "98.51%",
-    "uptimeMonth": "99.41%",
-    "uptimeYear": "87.33%",
+    "uptimeDay": "95.82%",
+    "uptimeWeek": "98.64%",
+    "uptimeMonth": "99.44%",
+    "uptimeYear": "87.35%",
     "time": 391,
     "timeDay": 292,
     "timeWeek": 490,
     "timeMonth": 484,
     "timeYear": 365,
     "dailyMinutesDown": {
-      "2024-08-20": 74,
+      "2024-08-20": 61,
       "2024-08-15": 17,
       "2024-08-14": 60,
       "2024-07-30": 88,
@@ -758,8 +754,7 @@
       "2023-08-26": 1440,
       "2023-08-25": 1440,
       "2023-08-24": 1440,
-      "2023-08-23": 1440,
-      "2023-08-22": 1440
+      "2023-08-23": 1440
     }
   }
 ]
