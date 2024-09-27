@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/relatoria.consejodeestado.gov.co.ico",
     "slug": "samai",
     "status": "up",
-    "uptime": "78.55%",
+    "uptime": "78.56%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.43%",
     "uptimeMonth": "97.68%",
-    "uptimeYear": "97.17%",
-    "time": 1024,
-    "timeDay": 984,
-    "timeWeek": 1223,
-    "timeMonth": 940,
-    "timeYear": 1024,
+    "uptimeYear": "97.22%",
+    "time": 1023,
+    "timeDay": 494,
+    "timeWeek": 1068,
+    "timeMonth": 934,
+    "timeYear": 1023,
     "dailyMinutesDown": {
       "2024-09-21": 58,
       "2024-09-13": 28,
@@ -60,8 +60,7 @@
       "2023-10-02": 147,
       "2023-10-01": 1440,
       "2023-09-30": 1440,
-      "2023-09-29": 1440,
-      "2023-09-28": 1440
+      "2023-09-29": 1440
     }
   },
   {
@@ -76,9 +75,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 303,
-    "timeDay": 358,
-    "timeWeek": 277,
-    "timeMonth": 234,
+    "timeDay": 65,
+    "timeWeek": 234,
+    "timeMonth": 231,
     "timeYear": 224,
     "dailyMinutesDown": {
       "2024-08-06": 16
@@ -94,11 +93,11 @@
     "uptimeDay": "97.04%",
     "uptimeWeek": "97.39%",
     "uptimeMonth": "96.48%",
-    "uptimeYear": "96.76%",
+    "uptimeYear": "96.81%",
     "time": 663,
-    "timeDay": 511,
-    "timeWeek": 578,
-    "timeMonth": 749,
+    "timeDay": 519,
+    "timeWeek": 576,
+    "timeMonth": 750,
     "timeYear": 665,
     "dailyMinutesDown": {
       "2024-09-26": 43,
@@ -181,8 +180,7 @@
       "2023-10-02": 122,
       "2023-10-01": 1440,
       "2023-09-30": 1440,
-      "2023-09-29": 1440,
-      "2023-09-28": 1440
+      "2023-09-29": 1440
     }
   },
   {
@@ -197,9 +195,9 @@
     "uptimeMonth": "99.71%",
     "uptimeYear": "99.62%",
     "time": 841,
-    "timeDay": 827,
-    "timeWeek": 831,
-    "timeMonth": 832,
+    "timeDay": 798,
+    "timeWeek": 822,
+    "timeMonth": 831,
     "timeYear": 852,
     "dailyMinutesDown": {
       "2024-09-26": 24,
@@ -231,10 +229,10 @@
     "uptimeWeek": "87.73%",
     "uptimeMonth": "94.24%",
     "uptimeYear": "94.24%",
-    "time": 1353,
-    "timeDay": 928,
-    "timeWeek": 890,
-    "timeMonth": 2469,
+    "time": 1352,
+    "timeDay": 741,
+    "timeWeek": 871,
+    "timeMonth": 2471,
     "timeYear": 1351,
     "dailyMinutesDown": {
       "2024-09-25": 142,
@@ -335,16 +333,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/relatoria.consejodeestado.gov.co.ico",
     "slug": "jca-consejo",
     "status": "up",
-    "uptime": "76.24%",
+    "uptime": "76.25%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.45%",
     "uptimeMonth": "97.72%",
-    "uptimeYear": "97.20%",
-    "time": 979,
-    "timeDay": 816,
-    "timeWeek": 1141,
+    "uptimeYear": "97.25%",
+    "time": 978,
+    "timeDay": 503,
+    "timeWeek": 1054,
     "timeMonth": 1429,
-    "timeYear": 979,
+    "timeYear": 978,
     "dailyMinutesDown": {
       "2024-09-21": 56,
       "2024-09-13": 47,
@@ -383,8 +381,7 @@
       "2023-10-02": 147,
       "2023-10-01": 1440,
       "2023-09-30": 1440,
-      "2023-09-29": 1440,
-      "2023-09-28": 1440
+      "2023-09-29": 1440
     }
   },
   {
@@ -393,16 +390,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ventanilla-azure",
     "status": "up",
-    "uptime": "48.12%",
+    "uptime": "48.13%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
-    "uptimeYear": "84.35%",
-    "time": 579,
-    "timeDay": 554,
-    "timeWeek": 773,
+    "uptimeYear": "84.40%",
+    "time": 578,
+    "timeDay": 374,
+    "timeWeek": 707,
     "timeMonth": 593,
-    "timeYear": 598,
+    "timeYear": 597,
     "dailyMinutesDown": {
       "2024-09-14": 25,
       "2024-08-17": 24,
@@ -464,8 +461,7 @@
       "2023-10-02": 1440,
       "2023-10-01": 1440,
       "2023-09-30": 1440,
-      "2023-09-29": 1440,
-      "2023-09-28": 1440
+      "2023-09-29": 1440
     }
   },
   {
@@ -479,10 +475,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.05%",
-    "time": 648,
-    "timeDay": 442,
-    "timeWeek": 435,
-    "timeMonth": 315,
+    "time": 647,
+    "timeDay": 331,
+    "timeWeek": 417,
+    "timeMonth": 319,
     "timeYear": 375,
     "dailyMinutesDown": {
       "2023-10-24": 945,
@@ -512,9 +508,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.05%",
     "time": 594,
-    "timeDay": 560,
-    "timeWeek": 877,
-    "timeMonth": 611,
+    "timeDay": 376,
+    "timeWeek": 824,
+    "timeMonth": 615,
     "timeYear": 584,
     "dailyMinutesDown": {
       "2023-10-24": 945,
@@ -542,12 +538,12 @@
     "uptimeDay": "98.11%",
     "uptimeWeek": "97.28%",
     "uptimeMonth": "96.47%",
-    "uptimeYear": "96.80%",
+    "uptimeYear": "96.85%",
     "time": 365,
-    "timeDay": 247,
-    "timeWeek": 308,
+    "timeDay": 221,
+    "timeWeek": 307,
     "timeMonth": 321,
-    "timeYear": 357,
+    "timeYear": 356,
     "dailyMinutesDown": {
       "2024-09-26": 27,
       "2024-09-24": 29,
@@ -622,8 +618,7 @@
       "2023-10-02": 124,
       "2023-10-01": 1440,
       "2023-09-30": 1440,
-      "2023-09-29": 1440,
-      "2023-09-28": 1440
+      "2023-09-29": 1440
     }
   }
 ]
