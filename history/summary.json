@@ -92,7 +92,7 @@
     "uptimeMonth": "96.02%",
     "uptimeYear": "97.92%",
     "time": 657,
-    "timeDay": 425,
+    "timeDay": 433,
     "timeWeek": 509,
     "timeMonth": 554,
     "timeYear": 656,
@@ -225,12 +225,12 @@
     "url": "http://190.217.24.55:8080/WebRelatoria/ce/index.xhtml",
     "icon": "https://icons.duckduckgo.com/ip3/190.217.24.55.ico",
     "slug": "buscador-tradicional-consejo",
-    "status": "up",
-    "uptime": "97.15%",
-    "uptimeDay": "96.33%",
+    "status": "down",
+    "uptime": "97.16%",
+    "uptimeDay": "96.32%",
     "uptimeWeek": "80.43%",
     "uptimeMonth": "88.52%",
-    "uptimeYear": "93.87%",
+    "uptimeYear": "93.88%",
     "time": 1321,
     "timeDay": 772,
     "timeWeek": 741,
@@ -330,7 +330,7 @@
       "2024-03-20": 68,
       "2024-03-18": 24,
       "2024-03-15": 19,
-      "2024-03-14": 82
+      "2024-03-14": 37
     }
   },
   {
@@ -515,7 +515,7 @@
     "uptimeMonth": "96.09%",
     "uptimeYear": "97.96%",
     "time": 357,
-    "timeDay": 326,
+    "timeDay": 337,
     "timeWeek": 439,
     "timeMonth": 333,
     "timeYear": 342,
