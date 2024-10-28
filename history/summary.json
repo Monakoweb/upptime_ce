@@ -87,16 +87,16 @@
     "url": "https://iedoc.consejodeestado.gov.co:448/",
     "icon": "https://icons.duckduckgo.com/ip3/iedoc.consejodeestado.gov.co.ico",
     "slug": "indice-electronico",
-    "status": "up",
+    "status": "down",
     "uptime": "99.11%",
-    "uptimeDay": "93.84%",
+    "uptimeDay": "93.83%",
     "uptimeWeek": "96.33%",
     "uptimeMonth": "95.75%",
-    "uptimeYear": "98.03%",
+    "uptimeYear": "98.04%",
     "time": 651,
-    "timeDay": 566,
-    "timeWeek": 635,
-    "timeMonth": 557,
+    "timeDay": 535,
+    "timeWeek": 626,
+    "timeMonth": 554,
     "timeYear": 650,
     "dailyMinutesDown": {
       "2024-10-28": 89,
@@ -177,8 +177,7 @@
       "2024-02-26": 27,
       "2024-02-15": 25,
       "2024-02-08": 98,
-      "2024-02-06": 25,
-      "2024-01-25": 15
+      "2024-02-06": 25
     }
   },
   {
@@ -188,9 +187,9 @@
     "slug": "vocabulario-controlado",
     "status": "down",
     "uptime": "99.32%",
-    "uptimeDay": "86.01%",
-    "uptimeWeek": "82.21%",
-    "uptimeMonth": "93.38%",
+    "uptimeDay": "85.14%",
+    "uptimeWeek": "82.09%",
+    "uptimeMonth": "93.35%",
     "uptimeYear": "99.06%",
     "time": 846,
     "timeDay": 844,
@@ -198,7 +197,7 @@
     "timeMonth": 848,
     "timeYear": 853,
     "dailyMinutesDown": {
-      "2024-10-28": 201,
+      "2024-10-28": 214,
       "2024-10-25": 25,
       "2024-10-24": 20,
       "2024-10-23": 700,
@@ -406,7 +405,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.59%",
-    "uptimeYear": "92.91%",
+    "uptimeYear": "92.92%",
     "time": 571,
     "timeDay": 992,
     "timeWeek": 770,
@@ -491,16 +490,16 @@
     "url": "https://iedoc.consejodeestado.gov.co:448/swagger.html",
     "icon": "https://icons.duckduckgo.com/ip3/iedoc.consejodeestado.gov.co.ico",
     "slug": "indice-micro",
-    "status": "up",
+    "status": "down",
     "uptime": "98.84%",
-    "uptimeDay": "93.84%",
-    "uptimeWeek": "96.33%",
+    "uptimeDay": "93.81%",
+    "uptimeWeek": "96.32%",
     "uptimeMonth": "95.76%",
     "uptimeYear": "98.00%",
-    "time": 355,
-    "timeDay": 488,
-    "timeWeek": 351,
-    "timeMonth": 343,
+    "time": 354,
+    "timeDay": 459,
+    "timeWeek": 348,
+    "timeMonth": 342,
     "timeYear": 340,
     "dailyMinutesDown": {
       "2024-10-28": 89,
@@ -581,8 +580,7 @@
       "2023-12-27": 251,
       "2023-12-19": 40,
       "2023-12-11": 23,
-      "2023-12-05": 23,
-      "2023-11-30": 18
+      "2023-12-05": 23
     }
   }
 ]
