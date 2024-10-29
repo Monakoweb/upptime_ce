@@ -406,7 +406,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.59%",
-    "uptimeYear": "93.11%",
+    "uptimeYear": "93.12%",
     "time": 571,
     "timeDay": 384,
     "timeWeek": 776,
@@ -490,18 +490,19 @@
     "url": "https://iedoc.consejodeestado.gov.co:448/swagger.html",
     "icon": "https://icons.duckduckgo.com/ip3/iedoc.consejodeestado.gov.co.ico",
     "slug": "indice-micro",
-    "status": "up",
+    "status": "down",
     "uptime": "98.83%",
-    "uptimeDay": "87.93%",
+    "uptimeDay": "87.89%",
     "uptimeWeek": "95.48%",
     "uptimeMonth": "95.57%",
-    "uptimeYear": "97.98%",
+    "uptimeYear": "97.99%",
     "time": 354,
-    "timeDay": 430,
-    "timeWeek": 349,
-    "timeMonth": 341,
+    "timeDay": 416,
+    "timeWeek": 347,
+    "timeMonth": 340,
     "timeYear": 340,
     "dailyMinutesDown": {
+      "2024-10-29": 0,
       "2024-10-28": 174,
       "2024-10-26": 192,
       "2024-10-24": 19,
@@ -579,8 +580,7 @@
       "2024-02-06": 25,
       "2023-12-27": 251,
       "2023-12-19": 40,
-      "2023-12-11": 23,
-      "2023-12-05": 23
+      "2023-12-11": 23
     }
   }
 ]
