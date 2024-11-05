@@ -1,7 +1,7 @@
 url: https://iedoc.consejodeestado.gov.co:448/
-status: up
-code: 200
-responseTime: 625
-lastUpdated: 2024-11-05T19:54:20.429Z
+status: down
+code: 502
+responseTime: 339
+lastUpdated: 2024-11-05T20:36:33.814Z
 startTime: 2022-08-11T15:54:30.000Z
 generator: Upptime <https://github.com/upptime/upptime>
