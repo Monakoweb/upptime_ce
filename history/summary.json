@@ -85,16 +85,16 @@
     "url": "https://iedoc.consejodeestado.gov.co:448/",
     "icon": "https://icons.duckduckgo.com/ip3/iedoc.consejodeestado.gov.co.ico",
     "slug": "indice-electronico",
-    "status": "up",
-    "uptime": "99.13%",
-    "uptimeDay": "98.95%",
-    "uptimeWeek": "99.56%",
+    "status": "down",
+    "uptime": "99.14%",
+    "uptimeDay": "98.93%",
+    "uptimeWeek": "99.68%",
     "uptimeMonth": "98.11%",
     "uptimeYear": "98.05%",
     "time": 648,
-    "timeDay": 506,
-    "timeWeek": 528,
-    "timeMonth": 567,
+    "timeDay": 499,
+    "timeWeek": 524,
+    "timeMonth": 566,
     "timeYear": 649,
     "dailyMinutesDown": {
       "2024-11-12": 15,
@@ -172,7 +172,7 @@
       "2024-03-25": 23,
       "2024-03-22": 16,
       "2024-03-21": 18,
-      "2024-03-20": 39
+      "2024-03-20": 23
     }
   },
   {
@@ -392,7 +392,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ventanilla-azure",
     "status": "up",
-    "uptime": "51.30%",
+    "uptime": "51.31%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -478,15 +478,15 @@
     "url": "https://iedoc.consejodeestado.gov.co:448/swagger.html",
     "icon": "https://icons.duckduckgo.com/ip3/iedoc.consejodeestado.gov.co.ico",
     "slug": "indice-micro",
-    "status": "up",
+    "status": "down",
     "uptime": "98.89%",
-    "uptimeDay": "98.94%",
-    "uptimeWeek": "99.18%",
+    "uptimeDay": "98.91%",
+    "uptimeWeek": "99.30%",
     "uptimeMonth": "98.03%",
-    "uptimeYear": "98.04%",
+    "uptimeYear": "98.05%",
     "time": 353,
-    "timeDay": 283,
-    "timeWeek": 284,
+    "timeDay": 288,
+    "timeWeek": 286,
     "timeMonth": 304,
     "timeYear": 338,
     "dailyMinutesDown": {
@@ -566,7 +566,7 @@
       "2024-03-19": 20,
       "2024-03-18": 16,
       "2024-03-15": 19,
-      "2024-02-28": 111
+      "2024-02-28": 68
     }
   }
 ]
