@@ -85,17 +85,17 @@
     "url": "https://iedoc.consejodeestado.gov.co:448/",
     "icon": "https://icons.duckduckgo.com/ip3/iedoc.consejodeestado.gov.co.ico",
     "slug": "indice-electronico",
-    "status": "up",
+    "status": "down",
     "uptime": "99.14%",
-    "uptimeDay": "95.74%",
+    "uptimeDay": "95.72%",
     "uptimeWeek": "98.59%",
     "uptimeMonth": "98.15%",
     "uptimeYear": "98.05%",
     "time": 645,
-    "timeDay": 691,
-    "timeWeek": 563,
-    "timeMonth": 590,
-    "timeYear": 646,
+    "timeDay": 656,
+    "timeWeek": 562,
+    "timeMonth": 587,
+    "timeYear": 645,
     "dailyMinutesDown": {
       "2024-11-19": 20,
       "2024-11-18": 41,
@@ -170,8 +170,7 @@
       "2024-04-07": 39,
       "2024-04-06": 32,
       "2024-04-04": 829,
-      "2024-04-03": 126,
-      "2024-04-02": 18
+      "2024-04-03": 126
     }
   },
   {
@@ -336,7 +335,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/relatoria.consejodeestado.gov.co.ico",
     "slug": "jca-consejo",
     "status": "up",
-    "uptime": "77.59%",
+    "uptime": "77.60%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.48%",
@@ -391,7 +390,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ventanilla-azure",
     "status": "up",
-    "uptime": "51.75%",
+    "uptime": "51.76%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -477,15 +476,15 @@
     "url": "https://iedoc.consejodeestado.gov.co:448/swagger.html",
     "icon": "https://icons.duckduckgo.com/ip3/iedoc.consejodeestado.gov.co.ico",
     "slug": "indice-micro",
-    "status": "up",
+    "status": "down",
     "uptime": "98.91%",
-    "uptimeDay": "95.76%",
-    "uptimeWeek": "99.03%",
-    "uptimeMonth": "98.21%",
+    "uptimeDay": "95.73%",
+    "uptimeWeek": "99.02%",
+    "uptimeMonth": "98.20%",
     "uptimeYear": "98.06%",
     "time": 350,
-    "timeDay": 277,
-    "timeWeek": 322,
+    "timeDay": 274,
+    "timeWeek": 325,
     "timeMonth": 315,
     "timeYear": 336,
     "dailyMinutesDown": {
@@ -563,8 +562,7 @@
       "2024-04-01": 24,
       "2024-03-22": 16,
       "2024-03-21": 16,
-      "2024-03-20": 39,
-      "2024-03-19": 20
+      "2024-03-20": 39
     }
   }
 ]
