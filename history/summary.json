@@ -85,18 +85,19 @@
     "url": "https://iedoc.consejodeestado.gov.co:448/",
     "icon": "https://icons.duckduckgo.com/ip3/iedoc.consejodeestado.gov.co.ico",
     "slug": "indice-electronico",
-    "status": "up",
+    "status": "down",
     "uptime": "99.14%",
-    "uptimeDay": "98.47%",
+    "uptimeDay": "98.45%",
     "uptimeWeek": "98.74%",
     "uptimeMonth": "98.10%",
-    "uptimeYear": "98.04%",
+    "uptimeYear": "98.05%",
     "time": 644,
-    "timeDay": 525,
-    "timeWeek": 588,
-    "timeMonth": 585,
+    "timeDay": 528,
+    "timeWeek": 586,
+    "timeMonth": 584,
     "timeYear": 645,
     "dailyMinutesDown": {
+      "2024-11-20": 0,
       "2024-11-19": 42,
       "2024-11-18": 41,
       "2024-11-15": 25,
@@ -170,7 +171,7 @@
       "2024-04-07": 39,
       "2024-04-06": 32,
       "2024-04-04": 829,
-      "2024-04-03": 126
+      "2024-04-03": 100
     }
   },
   {
@@ -474,18 +475,19 @@
     "url": "https://iedoc.consejodeestado.gov.co:448/swagger.html",
     "icon": "https://icons.duckduckgo.com/ip3/iedoc.consejodeestado.gov.co.ico",
     "slug": "indice-micro",
-    "status": "up",
+    "status": "down",
     "uptime": "98.91%",
-    "uptimeDay": "98.47%",
-    "uptimeWeek": "99.18%",
-    "uptimeMonth": "98.16%",
+    "uptimeDay": "98.43%",
+    "uptimeWeek": "99.17%",
+    "uptimeMonth": "98.15%",
     "uptimeYear": "98.06%",
     "time": 350,
-    "timeDay": 279,
-    "timeWeek": 325,
-    "timeMonth": 313,
+    "timeDay": 299,
+    "timeWeek": 327,
+    "timeMonth": 314,
     "timeYear": 336,
     "dailyMinutesDown": {
+      "2024-11-20": 1,
       "2024-11-19": 41,
       "2024-11-18": 41,
       "2024-11-12": 37,
@@ -560,7 +562,7 @@
       "2024-04-01": 24,
       "2024-03-22": 16,
       "2024-03-21": 16,
-      "2024-03-20": 39
+      "2024-03-20": 23
     }
   }
 ]
