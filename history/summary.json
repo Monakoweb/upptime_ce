@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/relatoria.consejodeestado.gov.co.ico",
     "slug": "samai",
     "status": "up",
-    "uptime": "79.82%",
+    "uptime": "79.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.47%",
@@ -87,17 +87,16 @@
     "slug": "indice-electronico",
     "status": "up",
     "uptime": "99.22%",
-    "uptimeDay": "97.35%",
-    "uptimeWeek": "98.36%",
-    "uptimeMonth": "98.08%",
+    "uptimeDay": "99.34%",
+    "uptimeWeek": "98.49%",
+    "uptimeMonth": "98.11%",
     "uptimeYear": "98.22%",
     "time": 642,
-    "timeDay": 486,
+    "timeDay": 453,
     "timeWeek": 560,
     "timeMonth": 558,
     "timeYear": 643,
     "dailyMinutesDown": {
-      "2024-11-22": 13,
       "2024-11-21": 50,
       "2024-11-20": 18,
       "2024-11-19": 42,
@@ -169,7 +168,8 @@
       "2024-04-25": 24,
       "2024-04-24": 24,
       "2024-04-23": 20,
-      "2024-04-17": 20
+      "2024-04-17": 20,
+      "2024-04-07": 39
     }
   },
   {
@@ -181,7 +181,7 @@
     "uptime": "99.08%",
     "uptimeDay": "97.56%",
     "uptimeWeek": "99.65%",
-    "uptimeMonth": "90.60%",
+    "uptimeMonth": "90.65%",
     "uptimeYear": "98.48%",
     "time": 848,
     "timeDay": 1280,
@@ -227,9 +227,9 @@
     "url": "http://190.217.24.55:8080/WebRelatoria/ce/index.xhtml",
     "icon": "https://icons.duckduckgo.com/ip3/190.217.24.55.ico",
     "slug": "buscador-tradicional-consejo",
-    "status": "up",
+    "status": "down",
     "uptime": "97.74%",
-    "uptimeDay": "97.22%",
+    "uptimeDay": "97.20%",
     "uptimeWeek": "98.31%",
     "uptimeMonth": "94.07%",
     "uptimeYear": "94.90%",
@@ -325,7 +325,7 @@
       "2024-05-04": 693,
       "2024-05-02": 26,
       "2024-04-29": 31,
-      "2024-04-26": 79
+      "2024-04-26": 55
     }
   },
   {
@@ -476,17 +476,16 @@
     "slug": "indice-micro",
     "status": "up",
     "uptime": "98.91%",
-    "uptimeDay": "97.35%",
-    "uptimeWeek": "98.61%",
-    "uptimeMonth": "98.19%",
+    "uptimeDay": "99.36%",
+    "uptimeWeek": "98.74%",
+    "uptimeMonth": "98.22%",
     "uptimeYear": "98.05%",
     "time": 349,
-    "timeDay": 290,
+    "timeDay": 282,
     "timeWeek": 288,
     "timeMonth": 312,
     "timeYear": 335,
     "dailyMinutesDown": {
-      "2024-11-22": 13,
       "2024-11-21": 25,
       "2024-11-20": 18,
       "2024-11-19": 41,
@@ -561,7 +560,8 @@
       "2024-04-03": 100,
       "2024-04-02": 18,
       "2024-04-01": 24,
-      "2024-03-22": 16
+      "2024-03-22": 16,
+      "2024-03-21": 16
     }
   }
 ]
