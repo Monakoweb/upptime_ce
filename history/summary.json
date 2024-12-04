@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/relatoria.consejodeestado.gov.co.ico",
     "slug": "samai",
     "status": "up",
-    "uptime": "80.10%",
+    "uptime": "80.11%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.56%",
     "uptimeMonth": "99.90%",
@@ -86,16 +86,16 @@
     "url": "https://iedoc.consejodeestado.gov.co:448/",
     "icon": "https://icons.duckduckgo.com/ip3/iedoc.consejodeestado.gov.co.ico",
     "slug": "indice-electronico",
-    "status": "up",
+    "status": "down",
     "uptime": "99.23%",
-    "uptimeDay": "96.57%",
+    "uptimeDay": "96.56%",
     "uptimeWeek": "98.53%",
     "uptimeMonth": "98.90%",
     "uptimeYear": "98.21%",
     "time": 642,
-    "timeDay": 486,
-    "timeWeek": 641,
-    "timeMonth": 587,
+    "timeDay": 453,
+    "timeWeek": 622,
+    "timeMonth": 585,
     "timeYear": 645,
     "dailyMinutesDown": {
       "2024-12-04": 49,
@@ -167,8 +167,7 @@
       "2024-05-03": 20,
       "2024-05-02": 56,
       "2024-04-30": 19,
-      "2024-04-29": 25,
-      "2024-04-25": 24
+      "2024-04-29": 25
     }
   },
   {
@@ -392,7 +391,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ventanilla-azure",
     "status": "up",
-    "uptime": "52.70%",
+    "uptime": "52.71%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -478,16 +477,16 @@
     "url": "https://iedoc.consejodeestado.gov.co:448/swagger.html",
     "icon": "https://icons.duckduckgo.com/ip3/iedoc.consejodeestado.gov.co.ico",
     "slug": "indice-micro",
-    "status": "up",
-    "uptime": "98.92%",
-    "uptimeDay": "96.58%",
-    "uptimeWeek": "98.55%",
+    "status": "down",
+    "uptime": "99.02%",
+    "uptimeDay": "96.54%",
+    "uptimeWeek": "98.54%",
     "uptimeMonth": "99.01%",
-    "uptimeYear": "98.04%",
+    "uptimeYear": "98.22%",
     "time": 351,
-    "timeDay": 297,
-    "timeWeek": 477,
-    "timeMonth": 331,
+    "timeDay": 285,
+    "timeWeek": 486,
+    "timeMonth": 330,
     "timeYear": 338,
     "dailyMinutesDown": {
       "2024-12-04": 49,
@@ -561,9 +560,7 @@
       "2024-04-25": 22,
       "2024-04-24": 47,
       "2024-04-23": 20,
-      "2024-04-06": 31,
-      "2024-04-04": 829,
-      "2024-04-03": 100
+      "2024-04-06": 31
     }
   }
 ]
