@@ -1,7 +1,7 @@
 url: samaijca.consejodeestado.gov.co
-status: down
-code: 502
-responseTime: 313
-lastUpdated: 2025-04-29T21:41:41.649Z
+status: up
+code: 200
+responseTime: 12156
+lastUpdated: 2025-04-29T22:51:45.523Z
 startTime: 2022-11-01T20:52:34.000Z
 generator: Upptime <https://github.com/upptime/upptime>
