@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.61%",
     "uptimeYear": "98.35%",
-    "time": 1355,
-    "timeDay": 1023,
-    "timeWeek": 782,
-    "timeMonth": 1877,
-    "timeYear": 1432,
+    "time": 1359,
+    "timeDay": 4295,
+    "timeWeek": 1324,
+    "timeMonth": 1963,
+    "timeYear": 1439,
     "dailyMinutesDown": {
       "2025-09-24": 66,
       "2025-09-12": 75,
@@ -53,8 +53,7 @@
       "2024-10-24": 20,
       "2024-10-23": 18,
       "2024-10-12": 61,
-      "2024-10-07": 658,
-      "2024-10-06": 1355
+      "2024-10-07": 658
     }
   },
   {
@@ -68,11 +67,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 396,
-    "timeDay": 310,
-    "timeWeek": 157,
-    "timeMonth": 651,
-    "timeYear": 452,
+    "time": 403,
+    "timeDay": 3545,
+    "timeWeek": 656,
+    "timeMonth": 761,
+    "timeYear": 460,
     "dailyMinutesDown": {
       "2025-04-29": 70,
       "2025-04-24": 57
@@ -84,18 +83,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/iedoc.consejodeestado.gov.co.ico",
     "slug": "indice-electronico",
     "status": "down",
-    "uptime": "76.56%",
+    "uptime": "76.55%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "27.38%",
-    "time": 586,
-    "timeDay": 616,
-    "timeWeek": 486,
-    "timeMonth": 482,
-    "timeYear": 545,
+    "uptimeYear": "27.32%",
+    "time": 585,
+    "timeDay": 398,
+    "timeWeek": 480,
+    "timeMonth": 480,
+    "timeYear": 544,
     "dailyMinutesDown": {
-      "2025-10-05": 1184,
+      "2025-10-06": 85,
+      "2025-10-05": 1440,
       "2025-10-04": 1440,
       "2025-10-03": 1440,
       "2025-10-02": 1440,
@@ -383,8 +383,7 @@
       "2024-10-16": 58,
       "2024-10-15": 41,
       "2024-10-12": 60,
-      "2024-10-07": 678,
-      "2024-10-06": 550
+      "2024-10-07": 678
     }
   },
   {
@@ -393,18 +392,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/190.217.24.78.ico",
     "slug": "vocabulario-controlado",
     "status": "down",
-    "uptime": "78.66%",
+    "uptime": "78.65%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "33.68%",
+    "uptimeYear": "33.61%",
     "time": 856,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 860,
     "dailyMinutesDown": {
-      "2025-10-05": 1184,
+      "2025-10-06": 85,
+      "2025-10-05": 1440,
       "2025-10-04": 1440,
       "2025-10-03": 1440,
       "2025-10-02": 1440,
@@ -674,11 +674,11 @@
     "uptimeWeek": "99.16%",
     "uptimeMonth": "99.43%",
     "uptimeYear": "96.69%",
-    "time": 1086,
-    "timeDay": 886,
-    "timeWeek": 850,
-    "timeMonth": 809,
-    "timeYear": 914,
+    "time": 1085,
+    "timeDay": 778,
+    "timeWeek": 848,
+    "timeMonth": 807,
+    "timeYear": 913,
     "dailyMinutesDown": {
       "2025-10-05": 24,
       "2025-10-02": 24,
@@ -782,18 +782,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/relatoria.consejodeestado.gov.co.ico",
     "slug": "jca-consejo",
     "status": "down",
-    "uptime": "58.67%",
+    "uptime": "58.66%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "20.30%",
-    "time": 1047,
+    "uptimeYear": "20.24%",
+    "time": 1050,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 503,
-    "timeYear": 1007,
+    "timeYear": 1002,
     "dailyMinutesDown": {
-      "2025-10-05": 1184,
+      "2025-10-06": 85,
+      "2025-10-05": 1440,
       "2025-10-04": 1440,
       "2025-10-03": 1440,
       "2025-10-02": 1440,
@@ -1090,8 +1091,7 @@
       "2024-10-24": 19,
       "2024-10-23": 18,
       "2024-10-12": 60,
-      "2024-10-07": 658,
-      "2024-10-06": 1355
+      "2024-10-07": 658
     }
   },
   {
@@ -1100,19 +1100,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ventanilla-azure",
     "status": "up",
-    "uptime": "66.20%",
+    "uptime": "66.21%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.80%",
     "time": 784,
-    "timeDay": 873,
-    "timeWeek": 718,
-    "timeMonth": 737,
-    "timeYear": 847,
-    "dailyMinutesDown": {
-      "2024-10-06": 1056
-    }
+    "timeDay": 533,
+    "timeWeek": 514,
+    "timeMonth": 736,
+    "timeYear": 846,
+    "dailyMinutesDown": {}
   },
   {
     "name": "SAMAI AZURE-2",
@@ -1125,15 +1123,14 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.78%",
-    "time": 652,
-    "timeDay": 434,
-    "timeWeek": 333,
-    "timeMonth": 777,
-    "timeYear": 756,
+    "time": 658,
+    "timeDay": 3437,
+    "timeWeek": 804,
+    "timeMonth": 877,
+    "timeYear": 764,
     "dailyMinutesDown": {
       "2025-04-29": 87,
-      "2025-04-24": 57,
-      "2024-10-06": 1002
+      "2025-04-24": 57
     }
   },
   {
@@ -1147,15 +1144,14 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.77%",
-    "time": 883,
-    "timeDay": 642,
-    "timeWeek": 434,
-    "timeMonth": 863,
-    "timeYear": 989,
+    "time": 890,
+    "timeDay": 3940,
+    "timeWeek": 952,
+    "timeMonth": 974,
+    "timeYear": 997,
     "dailyMinutesDown": {
       "2025-04-29": 99,
-      "2025-04-24": 58,
-      "2024-10-06": 1045
+      "2025-04-24": 58
     }
   },
   {
@@ -1164,18 +1160,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/iedoc.consejodeestado.gov.co.ico",
     "slug": "indice-micro",
     "status": "down",
-    "uptime": "72.19%",
+    "uptime": "72.17%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "27.39%",
+    "uptimeYear": "27.33%",
     "time": 325,
-    "timeDay": 331,
-    "timeWeek": 276,
-    "timeMonth": 294,
+    "timeDay": 277,
+    "timeWeek": 279,
+    "timeMonth": 292,
     "timeYear": 326,
     "dailyMinutesDown": {
-      "2025-10-05": 1185,
+      "2025-10-06": 85,
+      "2025-10-05": 1440,
       "2025-10-04": 1440,
       "2025-10-03": 1440,
       "2025-10-02": 1440,
@@ -1463,8 +1460,7 @@
       "2024-10-16": 52,
       "2024-10-15": 41,
       "2024-10-12": 60,
-      "2024-10-07": 659,
-      "2024-10-06": 549
+      "2024-10-07": 659
     }
   }
 ]
