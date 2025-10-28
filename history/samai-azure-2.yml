@@ -1,7 +1,7 @@
 url: samai.consejodeestado.gov.co
-status: up
-code: 200
-responseTime: 160
-lastUpdated: 2025-10-28T18:58:34.107Z
+status: down
+code: 403
+responseTime: 493
+lastUpdated: 2025-10-28T19:37:07.837Z
 startTime: 2022-11-01T20:52:33.000Z
 generator: Upptime <https://github.com/upptime/upptime>
