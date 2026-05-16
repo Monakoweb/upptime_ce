@@ -1,7 +1,7 @@
 url: ventanillavirtual.consejodeestado.gov.co
-status: down
-code: 403
-responseTime: 187
-lastUpdated: 2026-05-16T17:22:12.751Z
+status: up
+code: 200
+responseTime: 677
+lastUpdated: 2026-05-16T18:15:40.709Z
 startTime: 2022-11-01T20:51:00.000Z
 generator: Upptime <https://github.com/upptime/upptime>
