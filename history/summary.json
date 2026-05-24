@@ -4,17 +4,17 @@
     "url": "https://relatoria.consejodeestado.gov.co:8080/",
     "icon": "https://icons.duckduckgo.com/ip3/relatoria.consejodeestado.gov.co.ico",
     "slug": "samai",
-    "status": "down",
+    "status": "up",
     "uptime": "98.46%",
-    "uptimeDay": "94.42%",
-    "uptimeWeek": "99.20%",
-    "uptimeMonth": "99.69%",
-    "uptimeYear": "95.94%",
-    "time": 1270,
-    "timeDay": 731,
-    "timeWeek": 1051,
-    "timeMonth": 954,
-    "timeYear": 1293,
+    "uptimeDay": "90.34%",
+    "uptimeWeek": "98.62%",
+    "uptimeMonth": "99.56%",
+    "uptimeYear": "95.93%",
+    "time": 1271,
+    "timeDay": 883,
+    "timeWeek": 1066,
+    "timeMonth": 961,
+    "timeYear": 1292,
     "dailyMinutesDown": {
       "2025-06-12": 18,
       "2025-06-14": 54,
@@ -58,7 +58,7 @@
       "2026-04-18": 34,
       "2026-05-16": 54,
       "2026-05-23": 75,
-      "2026-05-24": 6
+      "2026-05-24": 64
     }
   },
   {
@@ -105,7 +105,7 @@
     "timeMonth": 534,
     "timeYear": 529,
     "dailyMinutesDown": {
-      "2026-05-24": 711,
+      "2026-05-24": 776,
       "2026-05-23": 1440,
       "2026-05-22": 1440,
       "2026-05-21": 1440,
@@ -489,7 +489,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-24": 712,
+      "2026-05-24": 776,
       "2026-05-23": 1440,
       "2026-05-22": 1440,
       "2026-05-21": 1440,
@@ -971,7 +971,7 @@
     "timeMonth": 0,
     "timeYear": 503,
     "dailyMinutesDown": {
-      "2026-05-24": 712,
+      "2026-05-24": 776,
       "2026-05-23": 1440,
       "2026-05-22": 1440,
       "2026-05-21": 1440,
@@ -1344,7 +1344,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ventanilla-azure",
     "status": "up",
-    "uptime": "72.09%",
+    "uptime": "72.10%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.88%",
@@ -1436,7 +1436,7 @@
     "timeMonth": 482,
     "timeYear": 407,
     "dailyMinutesDown": {
-      "2026-05-24": 712,
+      "2026-05-24": 776,
       "2026-05-23": 1440,
       "2026-05-22": 1440,
       "2026-05-21": 1440,
