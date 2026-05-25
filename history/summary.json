@@ -105,7 +105,7 @@
     "timeMonth": 538,
     "timeYear": 529,
     "dailyMinutesDown": {
-      "2026-05-25": 1208,
+      "2026-05-25": 1284,
       "2026-05-24": 1440,
       "2026-05-23": 1440,
       "2026-05-22": 1440,
@@ -489,7 +489,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-25": 1208,
+      "2026-05-25": 1284,
       "2026-05-24": 1440,
       "2026-05-23": 1440,
       "2026-05-22": 1440,
@@ -861,16 +861,16 @@
     "url": "http://190.217.24.55:8080/WebRelatoria/ce/index.xhtml",
     "icon": "https://icons.duckduckgo.com/ip3/190.217.24.55.ico",
     "slug": "buscador-tradicional-consejo",
-    "status": "down",
-    "uptime": "99.66%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.12%",
-    "uptimeYear": "98.82%",
+    "status": "up",
+    "uptime": "99.65%",
+    "uptimeDay": "94.69%",
+    "uptimeWeek": "99.24%",
+    "uptimeMonth": "98.94%",
+    "uptimeYear": "98.80%",
     "time": 924,
-    "timeDay": 751,
-    "timeWeek": 779,
-    "timeMonth": 821,
+    "timeDay": 723,
+    "timeWeek": 768,
+    "timeMonth": 818,
     "timeYear": 945,
     "dailyMinutesDown": {
       "2025-05-28": 24,
@@ -952,7 +952,7 @@
       "2026-05-12": 220,
       "2026-05-16": 55,
       "2026-05-18": 112,
-      "2026-05-25": 1
+      "2026-05-25": 76
     }
   },
   {
@@ -972,7 +972,7 @@
     "timeMonth": 0,
     "timeYear": 503,
     "dailyMinutesDown": {
-      "2026-05-25": 1208,
+      "2026-05-25": 1284,
       "2026-05-24": 1440,
       "2026-05-23": 1440,
       "2026-05-22": 1440,
@@ -1437,7 +1437,7 @@
     "timeMonth": 494,
     "timeYear": 407,
     "dailyMinutesDown": {
-      "2026-05-25": 1208,
+      "2026-05-25": 1284,
       "2026-05-24": 1440,
       "2026-05-23": 1440,
       "2026-05-22": 1440,
