@@ -4,13 +4,13 @@
     "url": "https://relatoria.consejodeestado.gov.co:8080/",
     "icon": "https://icons.duckduckgo.com/ip3/relatoria.consejodeestado.gov.co.ico",
     "slug": "samai",
-    "status": "up",
+    "status": "down",
     "uptime": "98.47%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.31%",
-    "uptimeMonth": "99.11%",
-    "uptimeYear": "95.90%",
-    "time": 1264,
+    "uptimeDay": "98.31%",
+    "uptimeWeek": "99.06%",
+    "uptimeMonth": "99.05%",
+    "uptimeYear": "95.89%",
+    "time": 1263,
     "timeDay": 549,
     "timeWeek": 817,
     "timeMonth": 904,
@@ -60,7 +60,8 @@
       "2026-05-23": 75,
       "2026-05-24": 64,
       "2026-05-30": 129,
-      "2026-06-06": 70
+      "2026-06-06": 70,
+      "2026-06-09": 24
     }
   },
   {
@@ -97,7 +98,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/iedoc.consejodeestado.gov.co.ico",
     "slug": "indice-electronico",
     "status": "down",
-    "uptime": "63.07%",
+    "uptime": "63.06%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -108,7 +109,7 @@
     "timeMonth": 498,
     "timeYear": 529,
     "dailyMinutesDown": {
-      "2026-06-09": 215,
+      "2026-06-09": 379,
       "2026-06-08": 1440,
       "2026-06-07": 1440,
       "2026-06-06": 1440,
@@ -492,7 +493,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-09": 215,
+      "2026-06-09": 379,
       "2026-06-08": 1440,
       "2026-06-07": 1440,
       "2026-06-06": 1440,
@@ -864,12 +865,12 @@
     "url": "http://190.217.24.55:8080/WebRelatoria/ce/index.xhtml",
     "icon": "https://icons.duckduckgo.com/ip3/190.217.24.55.ico",
     "slug": "buscador-tradicional-consejo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.66%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.40%",
-    "uptimeMonth": "98.80%",
-    "uptimeYear": "98.82%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "99.30%",
+    "uptimeMonth": "98.78%",
+    "uptimeYear": "98.81%",
     "time": 922,
     "timeDay": 655,
     "timeWeek": 653,
@@ -950,7 +951,8 @@
       "2026-05-16": 55,
       "2026-05-18": 112,
       "2026-05-25": 76,
-      "2026-06-06": 61
+      "2026-06-06": 61,
+      "2026-06-09": 10
     }
   },
   {
@@ -970,7 +972,7 @@
     "timeMonth": 0,
     "timeYear": 503,
     "dailyMinutesDown": {
-      "2026-06-09": 215,
+      "2026-06-09": 379,
       "2026-06-08": 1440,
       "2026-06-07": 1440,
       "2026-06-06": 1440,
@@ -1427,7 +1429,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/iedoc.consejodeestado.gov.co.ico",
     "slug": "indice-micro",
     "status": "down",
-    "uptime": "57.57%",
+    "uptime": "57.56%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1438,7 +1440,7 @@
     "timeMonth": 507,
     "timeYear": 414,
     "dailyMinutesDown": {
-      "2026-06-09": 215,
+      "2026-06-09": 379,
       "2026-06-08": 1440,
       "2026-06-07": 1440,
       "2026-06-06": 1440,
