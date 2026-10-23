@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/relatoria.consejodeestado.gov.co.ico",
     "slug": "samai",
     "status": "down",
-    "uptime": "98.51%",
-    "uptimeDay": "99.18%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "98.67%",
-    "uptimeYear": "94.28%",
-    "time": 1222,
-    "timeDay": 850,
-    "timeWeek": 858,
-    "timeMonth": 1109,
-    "timeYear": 956,
+    "uptime": "98.49%",
+    "uptimeDay": "81.75%",
+    "uptimeWeek": "97.39%",
+    "uptimeMonth": "98.09%",
+    "uptimeYear": "94.23%",
+    "time": 1220,
+    "timeDay": 737,
+    "timeWeek": 829,
+    "timeMonth": 1105,
+    "timeYear": 955,
     "dailyMinutesDown": {
       "2025-10-25": 48,
       "2025-10-27": 194,
@@ -72,7 +72,8 @@
       "2026-08-29": 1376,
       "2026-10-06": 329,
       "2026-10-10": 243,
-      "2026-10-22": 12
+      "2026-10-23": 220,
+      "2026-10-22": 42
     }
   },
   {
@@ -81,15 +82,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/samai.azurewebsites.net.ico",
     "slug": "samai-azure",
     "status": "down",
-    "uptime": "99.83%",
-    "uptimeDay": "99.19%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.22%",
-    "uptimeYear": "99.47%",
+    "uptime": "99.82%",
+    "uptimeDay": "81.76%",
+    "uptimeWeek": "97.39%",
+    "uptimeMonth": "98.65%",
+    "uptimeYear": "99.43%",
     "time": 446,
-    "timeDay": 410,
-    "timeWeek": 465,
-    "timeMonth": 578,
+    "timeDay": 528,
+    "timeWeek": 491,
+    "timeMonth": 586,
     "timeYear": 378,
     "dailyMinutesDown": {
       "2025-10-25": 48,
@@ -103,7 +104,8 @@
       "2026-05-30": 129,
       "2026-07-05": 141,
       "2026-10-06": 329,
-      "2026-10-22": 12
+      "2026-10-23": 220,
+      "2026-10-22": 42
     }
   },
   {
@@ -112,18 +114,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/iedoc.consejodeestado.gov.co.ico",
     "slug": "indice-electronico",
     "status": "down",
-    "uptime": "57.48%",
+    "uptime": "57.47%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 543,
-    "timeDay": 412,
-    "timeWeek": 552,
-    "timeMonth": 564,
-    "timeYear": 559,
+    "time": 542,
+    "timeDay": 444,
+    "timeWeek": 566,
+    "timeMonth": 565,
+    "timeYear": 558,
     "dailyMinutesDown": {
-      "2026-10-22": 1410,
+      "2026-10-23": 221,
+      "2026-10-22": 1440,
       "2026-10-21": 1440,
       "2026-10-20": 1440,
       "2026-10-19": 1440,
@@ -486,8 +489,7 @@
       "2025-10-27": 1440,
       "2025-10-26": 1440,
       "2025-10-25": 1440,
-      "2025-10-24": 1440,
-      "2025-10-23": 1440
+      "2025-10-24": 1440
     }
   },
   {
@@ -507,7 +509,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-22": 1410,
+      "2026-10-23": 221,
+      "2026-10-22": 1440,
       "2026-10-21": 1440,
       "2026-10-20": 1440,
       "2026-10-19": 1440,
@@ -870,8 +873,7 @@
       "2025-10-27": 1440,
       "2025-10-26": 1440,
       "2025-10-25": 1440,
-      "2025-10-24": 1440,
-      "2025-10-23": 1440
+      "2025-10-24": 1440
     }
   },
   {
@@ -880,12 +882,12 @@
     "icon": "https://icons.duckduckgo.com/ip3/190.217.24.55.ico",
     "slug": "buscador-tradicional-consejo",
     "status": "down",
-    "uptime": "90.83%",
+    "uptime": "90.82%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "62.05%",
-    "time": 909,
+    "uptimeYear": "62.00%",
+    "time": 910,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
@@ -936,7 +938,8 @@
       "2026-06-06": 61,
       "2026-06-09": 573,
       "2026-06-10": 725,
-      "2026-10-22": 1410,
+      "2026-10-23": 221,
+      "2026-10-22": 1440,
       "2026-10-21": 1440,
       "2026-10-20": 1440,
       "2026-10-19": 1440,
@@ -1078,7 +1081,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/relatoria.consejodeestado.gov.co.ico",
     "slug": "jca-consejo",
     "status": "down",
-    "uptime": "44.04%",
+    "uptime": "44.03%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1089,7 +1092,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-22": 1410,
+      "2026-10-23": 221,
+      "2026-10-22": 1440,
       "2026-10-21": 1440,
       "2026-10-20": 1440,
       "2026-10-19": 1440,
@@ -1452,8 +1456,7 @@
       "2025-10-27": 1440,
       "2025-10-26": 1440,
       "2025-10-25": 1440,
-      "2025-10-24": 1440,
-      "2025-10-23": 1440
+      "2025-10-24": 1440
     }
   },
   {
@@ -1462,16 +1465,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ventanilla-azure",
     "status": "down",
-    "uptime": "74.98%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.25%",
-    "uptimeYear": "99.51%",
-    "time": 675,
-    "timeDay": 427,
-    "timeWeek": 517,
-    "timeMonth": 566,
-    "timeYear": 600,
+    "uptime": "74.97%",
+    "uptimeDay": "82.49%",
+    "uptimeWeek": "97.50%",
+    "uptimeMonth": "98.67%",
+    "uptimeYear": "99.47%",
+    "time": 674,
+    "timeDay": 415,
+    "timeWeek": 509,
+    "timeMonth": 562,
+    "timeYear": 599,
     "dailyMinutesDown": {
       "2025-10-27": 214,
       "2025-10-28": 427,
@@ -1483,7 +1486,8 @@
       "2026-05-30": 128,
       "2026-07-05": 140,
       "2026-10-06": 328,
-      "2026-10-22": 1
+      "2026-10-23": 221,
+      "2026-10-22": 31
     }
   },
   {
@@ -1492,15 +1496,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "samai-azure-2",
     "status": "down",
-    "uptime": "99.06%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.25%",
-    "uptimeYear": "99.52%",
-    "time": 602,
-    "timeDay": 415,
-    "timeWeek": 462,
-    "timeMonth": 603,
+    "uptime": "99.04%",
+    "uptimeDay": "82.50%",
+    "uptimeWeek": "97.50%",
+    "uptimeMonth": "98.68%",
+    "uptimeYear": "99.47%",
+    "time": 601,
+    "timeDay": 452,
+    "timeWeek": 446,
+    "timeMonth": 602,
     "timeYear": 441,
     "dailyMinutesDown": {
       "2025-10-25": 48,
@@ -1514,7 +1518,8 @@
       "2026-05-30": 128,
       "2026-07-05": 140,
       "2026-10-06": 328,
-      "2026-10-22": 1
+      "2026-10-23": 221,
+      "2026-10-22": 31
     }
   },
   {
@@ -1523,16 +1528,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "samai-jca-azure-2",
     "status": "down",
-    "uptime": "99.03%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.25%",
-    "uptimeYear": "99.42%",
-    "time": 659,
-    "timeDay": 303,
-    "timeWeek": 365,
+    "uptime": "99.02%",
+    "uptimeDay": "82.52%",
+    "uptimeWeek": "97.50%",
+    "uptimeMonth": "98.68%",
+    "uptimeYear": "99.37%",
+    "time": 658,
+    "timeDay": 257,
+    "timeWeek": 357,
     "timeMonth": 545,
-    "timeYear": 538,
+    "timeYear": 537,
     "dailyMinutesDown": {
       "2025-10-25": 48,
       "2025-10-27": 174,
@@ -1546,7 +1551,8 @@
       "2026-07-05": 140,
       "2026-09-05": 269,
       "2026-10-06": 328,
-      "2026-10-22": 1
+      "2026-10-23": 221,
+      "2026-10-22": 31
     }
   },
   {
@@ -1555,18 +1561,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/iedoc.consejodeestado.gov.co.ico",
     "slug": "indice-micro",
     "status": "down",
-    "uptime": "51.79%",
+    "uptime": "51.78%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 449,
-    "timeDay": 410,
-    "timeWeek": 447,
-    "timeMonth": 524,
+    "timeDay": 426,
+    "timeWeek": 445,
+    "timeMonth": 521,
     "timeYear": 494,
     "dailyMinutesDown": {
-      "2026-10-22": 1410,
+      "2026-10-23": 221,
+      "2026-10-22": 1440,
       "2026-10-21": 1440,
       "2026-10-20": 1440,
       "2026-10-19": 1440,
@@ -1929,8 +1936,7 @@
       "2025-10-27": 1440,
       "2025-10-26": 1440,
       "2025-10-25": 1440,
-      "2025-10-24": 1440,
-      "2025-10-23": 1440
+      "2025-10-24": 1440
     }
   }
 ]
